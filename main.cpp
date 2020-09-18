@@ -16,5 +16,6 @@ int main() {
     string path = "/a/./b/../../c/";
     cout << s.simplifyPath(path) << endl;
     //89
+    //90
     return 0;
 }
